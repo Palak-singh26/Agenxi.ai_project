@@ -7,6 +7,7 @@ This project showcases services, portfolio, team members, and includes a working
 
 ## 📸 Screenshots  
 Example placeholders:  
+
 https://github.com/user-attachments/assets/f7503e2e-0d3c-4f4d-9592-db049f993ee2
 
 ---
