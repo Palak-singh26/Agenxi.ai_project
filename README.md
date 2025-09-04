@@ -6,15 +6,8 @@ This project showcases services, portfolio, team members, and includes a working
 ---
 
 ## 📸 Screenshots  
-
-> Add screenshots of different sections (homepage, services, team, contact form, dark/light mode) here.  
 Example placeholders:  
-
-- ![Homepage Screenshot](./screenshots/home.png)  
-- ![Services Section](./screenshots/services.png)  
-- ![Team Section](./screenshots/team.png)  
-- ![Contact Form](./screenshots/contact.png)  
-- ![Dark Mode](./screenshots/darkmode.png)  
+https://github.com/user-attachments/assets/f7503e2e-0d3c-4f4d-9592-db049f993ee2
 
 ---
 
