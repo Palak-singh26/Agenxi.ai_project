@@ -66,4 +66,3 @@ export default function App() {
 }
 
 
-// 2.29.12 min
